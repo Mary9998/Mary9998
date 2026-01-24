@@ -39,6 +39,17 @@
   
 </div>
 
+###
+---
+<div align="center">
+##  Portfólio
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=Snake-game-py&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/Snake-game-py)
+
+</div>
+---
+
 <br>
 
 <details align="center">  
@@ -68,7 +79,18 @@
   [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/1213879621364219976)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/marinamarianacordeiro/)
   
-</div>
+</div
+
+  ###
+---
+
+## 💼 Portfólio em construção
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=Snake-game-py&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/Snake-game-py)
+
+
+---
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Mary9998&style=flat-square&color=123845" /></p> 
