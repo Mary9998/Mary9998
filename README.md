@@ -42,8 +42,8 @@
 <div align="center">
 <h1>Portfólio</h1>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=Clima&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/Mary9998/Clima)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=SkinCare&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/Mary9998/SkinCare)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=Clima&bg_color=0d1117&border_color=85609c&show_icons=true&icon_color=da29bb&title_color=da29bb&text_color=ffffff)](https://github.com/Mary9998/Clima)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=SkinCare&bg_color=0d1117&border_color=85609c&show_icons=true&icon_color=da29bb&title_color=da29bb&text_color=ffffff)](https://github.com/Mary9998/SkinCare)
 
 
 ---
