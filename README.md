@@ -39,16 +39,16 @@
   
 </div>
 
-###
----
+
 <div align="center">
+
 ##  Portfólio
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=Snake-game-py&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/Snake-game-py)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=c78ee6&show_icons=true&icon_color=9f3ac7&title_color=9f3ac7&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=Snake-game-py&bg_color=0d1117&border_color=c78ee6&show_icons=true&icon_color=9f3ac7&title_color=9f3ac7&text_color=ffffff)](https://github.com/nanzim2/Snake-game-py)
 
-</div>
 ---
+</div>
 
 <br>
 
@@ -74,26 +74,17 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:cordeiromarina737@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/cordeiro_.mariana/)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/1213879621364219976)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/marinamarianacordeiro/)
+  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=c78ee6)](mailto:cordeiromarina737@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=c78ee6)](https://www.instagram.com/cordeiro_.mariana/)
+  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=c78ee6)](https://discord.gg/1213879621364219976)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=c78ee6)](https://www.linkedin.com/in/marinamarianacordeiro/)
   
 </div
 
-  ###
----
 
-## 💼 Portfólio em construção
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nanzim2&repo=Snake-game-py&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/nanzim2/Snake-game-py)
-
-
----
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Mary9998&style=flat-square&color=123845" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Mary9998&style=flat-square&color=c78ee6" /></p> 
 </div>
 
 
