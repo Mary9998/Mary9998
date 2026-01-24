@@ -40,15 +40,7 @@
 </div>
 
 
-<div align="center">
 
-##  Portfólio
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=LandingPage_pizzaria_Donnapizza&bg_color=0d1117&border_color=c78ee6&show_icons=true&icon_color=9f3ac7&title_color=9f3ac7&text_color=ffffff)](https://github.com/nanzim2/LandingPage_pizzaria_Donnapizza)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=Snake-game-py&bg_color=0d1117&border_color=c78ee6&show_icons=true&icon_color=9f3ac7&title_color=9f3ac7&text_color=ffffff)](https://github.com/nanzim2/Snake-game-py)
-
----
-</div>
 
 <br>
 
