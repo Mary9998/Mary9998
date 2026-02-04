@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#400e61v&height=120&section=header"/>
-
+ 
 
 <div align="center">
   
@@ -20,8 +20,7 @@
 </div>
 
 <div align="center">
-  <img height="165" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mary9998&hide_border=true&show_icons=true&rank_icon=github&title_color=da29bb&icon_color=da29bb&text_color=fff&bg_color=0d1117">
-  <img height="180" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary9998&layout=compact&hide_border=true&title_color=85609c&text_color=fff&bg_color=0d1117">
+  
   <br>
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mary9998&theme=radical"/>
@@ -42,8 +41,7 @@
 <div align="center">
 <h1>Portfólio</h1>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=Clima&bg_color=0d1117&border_color=85609c&show_icons=true&icon_color=da29bb&title_color=da29bb&text_color=ffffff)](https://github.com/Mary9998/Clima)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=SkinCare&bg_color=0d1117&border_color=85609c&show_icons=true&icon_color=da29bb&title_color=da29bb&text_color=ffffff)](https://github.com/Mary9998/SkinCare)
+
 
 
 ---
@@ -51,8 +49,7 @@
 
 <br>
 
-<details align="center">  
-  <summary>
+  <summary align="center">
       <samp>
         <b>More Info</b>
       </samp>
@@ -87,16 +84,14 @@
 </div>
 
 
+<div align="center">
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da29bb&height=120&section=footer"/>
