@@ -25,6 +25,18 @@
   <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mary9998&theme=radical"/>
 </div>
+  <br>
+
+<div align="center">
+  <a >
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Mary9998&show_icons=true&theme=transparent" />
+  </a>
+
+   <a>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-goes&layout=donut&theme=transparent&langs_count=6&exclude_repo=Spring_Journey" />
+  </a>
+
+  </div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
