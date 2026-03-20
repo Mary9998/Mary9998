@@ -65,7 +65,20 @@
         <b>More Info</b>
       </samp>
   </summary>
+
+  <div>
+
+ 
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=DonnaPizza&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/Mary9998/DonnaPizza)
+
+
+   
+    
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mary9998&repo=Jogo-da-memoria&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00e3cc&text_color=ffffff)](https://github.com/Mary9998/Jogo-da-memoria)
+
   
+
+  </div>
 <br>
 
 ##
