@@ -27,22 +27,11 @@
 </div>
   <br>
 
-<div align="center">
-  <a >
-   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Mary9998&show_icons=true&theme=tokyonight" />
-
-  </a>
-
-   <a>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary9998&layout=donut&theme=tokyonight&langs_count=6&exclude_repo=Spring_Journey" />
-  </a>
-
-  </div>
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,react,arch,bootstrap,c,cpp,css,discord,figma,git,github,gitlab,html,js,linux,nstjs,next.js,nodejs,npm,py,ts,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=azure,react,arch,bootstrap,c,cpp,css,discord,figma,git,github,gitlab,html,js,linux,nstjs,next.js,nodejs,npm,py,ts,vscode,windows&perline=3" />
   </a>
 </p>
 
