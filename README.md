@@ -41,6 +41,7 @@
 
 <div align="center" style="display: inline_block"><br>
   [![My Skills](https://skillicons.dev/icons?i=azure,react,arch,bootstrap,c,cpp,css,discord,figma,git,github,gitlab,html,js,linux,nstjs,next.js,nodejs,npm,py,ts,vscode,windows&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   
 </div>
 
