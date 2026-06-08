@@ -48,6 +48,15 @@
       </samp>
   </summary>
 
+###
+
+<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mary9998&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Mary9998&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+###
 
 <br>
 
