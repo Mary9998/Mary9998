@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nestjs,py,c,cpp,arch,linux,windows&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nestjs,py,arch,linux,windows&perline=12" />
   </a>
 </p>
 
